@@ -1,5 +1,5 @@
 {
-  "name": "akiraz2/yii2-blog",
+  "name": "ik-veon-dev/yii2-blog",
   "description": "Simple, configurable blog module for Yii2 (post, comment, nested category, tags). + frontend, backend. + SEO! (Opengraph, Schema.org)",
   "type": "yii2-extension",
   "keywords": [
@@ -80,7 +80,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "akiraz2\\blog\\": ""
+      "ik-veon-dev\\blog\\": ""
     }
   },
   "extra": {}
